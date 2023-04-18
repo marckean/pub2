@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "2-week in-person training course"
         icon: far fa-person-chalkboard #find more at https://fontawesome.com/icons
       - title: "Coaching"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Regular check-ins after the initial training, to make sure that things are staying on track"
         icon: fa fa bar-chart
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
