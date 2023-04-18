@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: far fa-person-chalkboard #find more at https://fontawesome.com/icons
       - title: "Coaching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: far fa-screen-users
+        icon: fa fa bar-chart
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
