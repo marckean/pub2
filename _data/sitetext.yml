@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: far fa-person-chalkboard #find more at https://fontawesome.com/icons
       - title: "Coaching"
         desc: "Regular check-ins after the initial training, to make sure that things are staying on track"
-        icon: fa fa bar-chart
+        icon: far bar-chart
 
   portfolio:
     title: "Portfolio"
