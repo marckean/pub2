@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Training"
         desc: "2-week in-person training course"
-        icon: fa-regular fa-person-chalkboard #find more at https://fontawesome.com/icons
+        icon: fas fa-person-chalkboard #find more at https://fontawesome.com/icons
       - title: "Coaching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
