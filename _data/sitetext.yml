@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "Training"
         desc: "2-week in-person training course"
-        icon: fa-regular fa-person-chalkboard #find more at https://fontawesome.com/icons
+        icon: far fa-person-chalkboard #find more at https://fontawesome.com/icons
       - title: "Coaching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-regular fa-screen-users
+        icon: far fa-screen-users
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Nick Wormworld"
+      - name: "Nick Wormald"
         role: "Physical Training"
         image: assets/img/team/1.jpg
         social:
