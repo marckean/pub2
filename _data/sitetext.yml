@@ -27,9 +27,6 @@ en: &DEFAULT_EN
       - title: "Coaching"
         desc: "Regular check-ins after the initial training, to make sure that things are staying on track"
         icon: fa fa bar-chart
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
