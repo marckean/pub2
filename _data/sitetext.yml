@@ -117,13 +117,13 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Marc Kean"
         role: "Mental Training"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/Marc.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/marckean
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://facebook.com/marckean
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/marckean
             icon: fab fa-linkedin-in
 
   contact:
