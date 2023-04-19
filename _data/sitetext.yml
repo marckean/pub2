@@ -97,7 +97,7 @@ en: &DEFAULT_EN
     people:
       - name: "Nick Wormald"
         role: "Physical Training"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/Nick.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -105,7 +105,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "AJ"
+      - name: "AJ (Amanda Joy)"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
