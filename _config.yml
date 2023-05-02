@@ -21,7 +21,7 @@ title      : Professional Unemployed Bum
 email      : marc@marckean.com #this is also the email contact forms will go to
 description: "Stay on top of your game until you get your bum back out there"
 author     : Marc Kean
-logo       : E-Jukebox-Digital-Media
+logo       : assets\img\E-Jukebox-Digital-Media(cropped)x512.png
   path: assets\img\E-Jukebox-Digital-Media(cropped)x512.png
   height: 52 #height in px, defaults to 52px
 
